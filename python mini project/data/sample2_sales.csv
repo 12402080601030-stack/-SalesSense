@@ -1,0 +1,6 @@
+Order ID,Order Date,Product,Category,Quantity,Unit Price,Unit Cost
+ORD001,2026-10-01,Laptop,Electronics,2,55000,50000
+ORD002,2026-10-02,Mouse,Electronics,5,800,500
+ORD003,2026-10-03,Office Chair,Furniture,3,4500,3500
+ORD004,2026-10-04,Notebook,Stationery,10,50,30
+ORD005,2026-10-05,Printer,Electronics,1,12000,10000
